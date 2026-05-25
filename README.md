@@ -15,7 +15,7 @@ If you have not configured WSL yet, follow the official Microsoft setup guide an
 2. Fork the repo using GitHub Web.
 3. Navigate to the repo folder (or clone it):
 	- `git clone <your-repo-url>`
-	- `cd pic-upv-lab4`
+	- `cd cifoin-lab4`
 4. Open the folder in VS Code.
 
 ## Create and select a Python environment
@@ -41,9 +41,9 @@ uv sync
 
 1. Open the notebook in VS Code:
 	- `LAYOUT_Student.ipynb`
-2. Select the kernel named `pic-upv-lab4` (or the `.venv` you created).
+2. Select the kernel named `cifoin-lab4` (or the `.venv` you created).
 3. Run the cells top-to-bottom.
 
 ## Troubleshooting
 
-- Email: camilo.cano@upv.es
+- Email: camilo.cano@upv.es or pascual.munoz@upv.es
